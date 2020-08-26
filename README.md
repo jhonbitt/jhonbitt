@@ -17,7 +17,7 @@
 
 
 <br />
- 🤩 ![]([![HitCount](http://hits.dwyl.com/jhonbitt/jhonbitt.svg)](http://hits.dwyl.com/jhonbitt/jhonbitt))
+ 🤩 ![]([![HitCount](http://hits.dwyl.com/jhonbitt/jhonbitt.svg)
 
 Iae, sou o Jhonbit, analista de segurança mais conhecido como pentester. escrevo alguns tool ai em C e python.
 
